@@ -1,3 +1,4 @@
 # Twitch_Qt4
 
-![alt text](https://github.com/datguy-dev/Twitch_Qt4/assets/options.png)
+
+![Alt text](https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/UI.png "Title")
