@@ -3,7 +3,7 @@
   
   Twitch_Qt4 is currently in the pre-alpha stage. If you wish to test it, we'd be glad to hear about your expierencing and or issues.
 
-<div align="center"><img src ="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/UI.png" /></div>
+<div float="right"><img src ="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/UI.png" /></div>
 
 ## Dependencies:
 - streamlink (ex: sudo apt-get install or pacman -S streamlink)
@@ -12,6 +12,6 @@
 - Python2 (imports should all be built-in packages)
 
 ## How To:
-<div align="center"><img src ="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/options.png" /></div>
+<div float="left"><img src ="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/options.png" /></div>
 
 Thanks for checking out my first repo! In addition to my first attempt at a GUI in Python...
