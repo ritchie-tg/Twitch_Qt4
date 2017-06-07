@@ -39,7 +39,4 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
 
 <hr>
 
-
-<p align="center">
-  Thanks for checking out my first repo and my first attempt at a GUI in Python...
-</p>
+Thanks for checking out my first repo and my first attempt at a GUI in Python...
