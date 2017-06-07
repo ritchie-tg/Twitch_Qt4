@@ -23,7 +23,7 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
    * [Client ID](https://blog.twitch.tv/client-id-required-for-kraken-api-calls-afbb8e95f843)
    * [Oauth /w **user_read** permissions](http://twitchapps.com/tokengen/)
    
-### 3. Run: python2 /path/to/Twitch_Qt4-master.py
+### 3. Run: python2 /path/to/Twitch_Qt4.py
 
 ### 4. Open the options and enter your Client-ID and Oauth
    - Quality: Select the desired quality of the stream.
