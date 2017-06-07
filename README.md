@@ -6,29 +6,32 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
 
 
 <p align="center">
+  <hr>
   <img src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/UI.png" title="Main Window">
+  <hr>
 </p>
 
 
 ## How To:
-**1. Install Dependencies:**
+### 1. Install Dependencies:
   * streamlink (ex: sudo apt-get install streamlink or pacman -S streamlink)
   * VLC (see streamLib.Livestreamer() to customize the player or change abs. path)
   * Python2 (imports should all be built-in packages)
   * PyQt4
   
-**2. Get Twitch.tv Client-ID and Oauth keys:**
+### 2. Get Twitch.tv Client-ID and Oauth keys:
    * [Client ID](https://blog.twitch.tv/client-id-required-for-kraken-api-calls-afbb8e95f843)
    * [Oauth /w **user_read** permissions](http://twitchapps.com/tokengen/)
    
-**3. Run: python2 /path/to/Twitch_Qt4-master.py**
+### 3. Run: python2 /path/to/Twitch_Qt4-master.py
 
-**4. Open the options and enter your Client-ID and Oauth**
+### 4. Open the options and enter your Client-ID and Oauth
    - Quality: Select the desired quality of the stream.
    - Cache: Number of seconds to catch the stream. This can provide a more reliable stream on slower connections.
    - Height Adjust: Enter a number to set the hegith of the app window. (negative for smaller)
 
 <p align="center">
+  <hr>
   <img src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/options.png" title="Options Window">
   <hr>
   Thanks for checking out my first repo and my first attempt at a GUI in Python...
