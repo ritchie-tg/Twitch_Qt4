@@ -2,7 +2,7 @@
 **Notice: Twitch_Qt4 is currently in a pre-alpha stage. It is missing features, expect bugs, the code is not fully commented, etc. But if you wish to test it, I'd appreciate your feedback.**
 
 ## Description:
-Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and *PyQt4*, that assists with the viewing of live streams that are hosted on Twitch.tv. This app will pull a list of the streams you follow using Twitch's offical Kraken API, then interface *streamlink* to your preferred media player such as *VLC*. Twitch_Qt4 is a lightweight application that is intended to avoid the resource usage or connection issues that can otherwise occur while watching Twitch.tv within a browser.
+Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and *PyQt4*, that assists with the viewing of live streams that are hosted on Twitch.tv. This app will pull a list of the streams you follow using Twitch's official Kraken API, then interface *streamlink* to your preferred media player such as *VLC*. Twitch_Qt4 is a lightweight application that is intended to avoid the resource usage or connection issues that can otherwise occur while watching Twitch.tv within a browser.
 
 <hr>
 
