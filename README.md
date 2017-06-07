@@ -4,11 +4,7 @@
 ## Description:
 Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and *PyQt4*, that assists with the viewing of live streams that are hosted on Twitch.tv. This app will pull a list of the streams you follow using Twitch's offical Kraken API, then interface *streamlink* to your preferred media player such as *VLC*. Twitch_Qt4 is a lightweight application that is intended to avoid the resource usage or connection issues that can otherwise occur while watching Twitch.tv within a browser.
 
-<p align="center">
-    ![Main](https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/UI.png?style=centerme)
-</p>
-
-
+<img align="center" src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/UI.png"></img>
 
 ## How To:
 **1. Install Dependencies:**
@@ -28,9 +24,6 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
    - Cache: Number of seconds to catch the stream. This can provide a more reliable stream on slower connections.
    - Height Adjust: Enter a number to set the hegith of the app window. (negative for smaller)
 
-<p align="center">
-    ![Options](https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/options.png?style=centerme)
-</p>
-
+<img align="center" src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/options.png"></img>
 
 Thanks for checking out my first repo and my first attempt at a GUI in Python...
