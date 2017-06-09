@@ -14,7 +14,7 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
 
 ## How To:
 ### 1. Install Dependencies:
-  * streamlink (ex: sudo apt-get install streamlink or pacman -S streamlink)
+  * [streamlink](https://streamlink.github.io/install.html)
   * VLC (see streamLib.Livestreamer() to customize the player or change abs. path)
   * Python2 (imports should all be built-in packages)
   * PyQt4
