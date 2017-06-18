@@ -28,7 +28,7 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
 ### 4. Open the options and enter your Client-ID and Oauth
    - Quality: Select the desired quality of the stream.
    - Cache: Number of seconds to cache' the stream. This can provide a more reliable stream on slower connections.
-   - Height Adjust: Enter a number to set the hegith of the app window. (negative for smaller)
+   - Height Adjust: Enter a number to set the vertical length of the app window. (use negatives for smaller.)
 
 <hr>
 
