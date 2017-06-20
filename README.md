@@ -21,7 +21,7 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
    * [Oauth /w **user_read AND chat_login** permissions](http://twitchapps.com/tokengen/)
    * Optional: Install Chatty IRC client.
       1. [Download Chatty](http://chatty.github.io/#download)
-      2. Extract the archive and move the files to the chatty folder in Twitch_Qt4/chatty
+      2. Extract the archive and move the files to the chatty folder in Twitch_Qt4/chatty <br>
       (If doesn't load, update & use Java 8 JRE or later. Login and authorize via Chatty)
 <p align="center">
   <img src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/chatty.png" title="Main Window">
