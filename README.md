@@ -23,7 +23,7 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
       1. [Download Chatty](http://chatty.github.io/#download)
       2. Extract the archive and move the files to the chatty folder in Twitch_Qt4/chatty
 <p align="center">
-  <img src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/chatty_tree.png" title="Main Window">
+  <img src="https://github.com/datguy-dev/Twitch_Qt4/blob/master/assets/chatty.png" title="Main Window">
 </p>      
    
 ### 3. Run: python2 /path/to/Twitch_Qt4.py
