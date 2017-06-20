@@ -43,11 +43,11 @@ Twitch_Qt4 is a desktop application developed for *Linux*, using *Python 2* and 
 </p>
 <hr>
 
-### Changelog
-## Twitch_Qt4 v0.1
-## Twitch_Qt4 v0.2
-- Various code changes
-- Fixed profile images not loading for buttons due to no username in filename.
-- Implemented desktop notifications options
-- Added Chatty IRC and notification check boxess in options
-- Changed config usage to ConfigParser
+## Changelog
+### v0.1
+### v0.2
+  - Various code changes
+  - Fixed profile images not loading for buttons due to no username in filename.
+  - Implemented desktop notifications options
+  - Added Chatty IRC and notification check boxess in options
+  - Changed config usage to ConfigParser
